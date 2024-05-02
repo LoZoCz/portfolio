@@ -8,14 +8,14 @@ Jeśli jesteś zainteresowany moją osobą, czy też może chcesz abym współpr
 
 ## Demo
 
-Możesz zobaczyć działającą wersję mojej strony pod adresem [link_do_demo](link).
+Możesz zobaczyć działającą wersję mojej strony pod adresem [DEMO](https://czernik-portfolio.netlify.app/).
 
 ## Uruchomienie Lokalne
 
 1. Sklonuj repozytorium:
 
     ```bash
-    git clone <link_do_repozytorium>
+    git clone https://github.com/LoZoCz/portfolio.git
     ```
 
 2. Zainstaluj
