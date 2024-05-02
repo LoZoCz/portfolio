@@ -8,7 +8,7 @@ Jeśli jesteś zainteresowany moją osobą, czy też może chcesz abym współpr
 
 ## Demo
 
-Możesz zobaczyć działającą wersję mojej strony pod adresem [link_do_demo](link).
+Możesz zobaczyć działającą wersję mojej strony pod adresem [DEMO]([link](https://czernik-portfolio.netlify.app/)).
 
 ## Uruchomienie Lokalne
 
