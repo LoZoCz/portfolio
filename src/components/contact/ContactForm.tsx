@@ -46,6 +46,7 @@ const ContactForm: FC = () => {
                 type="text"
                 name="from_name"
                 id="author"
+                required
                 placeholder="Autor"
                 className="block w-full rounded-md border border-zinc-400/50 bg-transparent p-2 outline-none transition-colors duration-300 focus-within:border-zinc-50 focus-within:bg-zinc-800/40 hover:border-zinc-50 hover:bg-zinc-800/40 md:w-2/3"
             />
@@ -54,6 +55,7 @@ const ContactForm: FC = () => {
                 type="email"
                 name="from_mail"
                 id="mail"
+                required
                 placeholder="Mail"
                 className="block w-full rounded-md border border-zinc-400/50 bg-transparent p-2 outline-none transition-colors duration-300 focus-within:border-zinc-50 focus-within:bg-zinc-800/40 hover:border-zinc-50 hover:bg-zinc-800/40 md:w-2/3"
             />
@@ -63,6 +65,7 @@ const ContactForm: FC = () => {
                 id="description"
                 placeholder="Wiadomość"
                 rows={8}
+                required
                 className="block w-full rounded-md border border-zinc-400/50 bg-transparent p-2 outline-none transition-colors duration-300 focus-within:border-zinc-50 focus-within:bg-zinc-800/40 hover:border-zinc-50 hover:bg-zinc-800/40 md:w-2/3"
             />
             <motion.button
