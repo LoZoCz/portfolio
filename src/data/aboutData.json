@@ -1,0 +1,52 @@
+{
+    "mainTitle": "Trochę o mnie",
+    "content": [
+        {
+            "title": "Sfera technologiczna",
+            "paras": [
+                "Zaczynając od najważniejszego, czyli technologii, które ułatwiają mi pracę na co dzień, wymieniłbym React.js, bibliotekę, którą aktualnie staram się doprowadzić do perfekcji, aby móc z łatwością tworzyć w niej projekty.",
+                "Do rzeczy, z których korzystałem w projektach, mogę też powiedzieć o Scss, Bootstrapie, Tailwind CSS - narzędziach, które niezmiernie pomogły i otworzyły mi świat stylizacji aplikacji internetowych o wiele szerzej w porównaniu do pracy z podstawowym CSS.",
+                "Zapomniałbym powiedzieć o takich podstawach jak HTML5 oraz Vanilla JavaScript, dzięki nim zaszczepiłem w sobie moją pasję do Frontendu.",
+                "Poza tym, z elementów dodatkowych to np. Git oraz GitHub, utrzymywanie projektów na tej platformie z całym ich systemem kontroli jest bardzo pomocne. TypeScript, który przyczynił mi się w znacznym stopniu do ułatwienia debugowania aplikacji."
+            ]
+        },
+        {
+            "title": "Edukacja",
+            "paras": [
+                "W roku 2024 zakończyłem moją naukę w technikum informatycznym w Zespole Szkół nr 4 imienia Janusza Groszkowskiego.",
+                "Przez 5 lat nauki w tej szkole wypracowałem w sobie charakter oraz wiedzę, która pomogła mi odnaleźć ścieżkę, którą chcę podążać przez moje życie.",
+                "Tematy poruszane na zajęciach w owej szkole ukazały mi piękno świata IT, a dokładniej piękno tego, jak można wykorzystać kodowanie do tworzenia rzeczy pięknych i funkcjonalnych.",
+                "                        Poza edukacją szkolną doskonaliłem i nadal udoskonalam moje umiejętności frontendowe w zaciszu własnego domu przy pomocy kursów internetowych, kanałów technologicznych, tworzeniu własnych projektów i dzieleniu się nimi z ludźmi z mojego otoczenia."
+            ]
+        },
+        {
+            "title": "Zainteresowania",
+            "paras": [
+                "Moje zainteresowania nie są na wyraz ekstrawaganckie czy też wymyślne, lecz mogę z łatwością stwierdzić, że znam się na nich bardzo dobrze i czuję się wykonując je lub rozmawiając o nich bardzo komfortowo.",
+                "Tak jak wspominałem wcześniej, zaliczają się do nich piłka nożna oraz nauki ścisłe.",
+                "Nie wyobrażam sobie na codzień spędzać dnia bez ruszenia czegokolwiek z tych tematów. Jeśli nie zobaczę jakiegoś urywka meczu, nie przemyślę złożonych problemów np. matematycznych, to czuję się jakby w moim dniu brakowało czegoś ważnego."
+            ]
+        },
+        {
+            "title": "Kompetencje",
+            "paras": [
+                "Komunikacja: Mam umiejętność klarownego przekazywania informacji zarówno werbalnie, jak i pisemnie. Potrafię słuchać uwag innych i efektywnie komunikować się w zespole.",
+                "Praca zespołowa: Wykazuję się zdolnością do efektywnej współpracy z innymi członkami zespołu. Potrafię dostosować się do różnych stylów pracy i angażować się w rozwiązywanie problemów zespołowych.",
+                "Kreatywność: Lubię podejmować się nowych wyzwań i szukać innowacyjnych rozwiązań. Potrafię myśleć kreatywnie i elastycznie w sytuacjach, które wymagają nietypowego podejścia.",
+                "Zarządzanie czasem: Posiadam umiejętność skutecznego zarządzania czasem i priorytetami. Potrafię efektywnie planować i organizować moją pracę, aby osiągać zamierzone cele w określonych terminach.",
+                "Analityczne myślenie: Jestem w stanie analizować problemy, identyfikować ich istotę i proponować odpowiednie rozwiązania. Potrafię podejmować decyzje na podstawie logicznego myślenia i analizy faktów."
+            ]
+        },
+        {
+            "title": "Znajomość języków obcych",
+            "paras": [
+                "Angielski: Bardzo dobrze włada językiem angielskim zarówno w mowie, jak i piśmie. Posiadam umiejętność swobodnej komunikacji zarówno w sytuacjach codziennych, jak i biznesowych.",
+                " Posiadam lekką znajomość języka niemieckiego, co pozwala mi delikatnie zrozumieć się z moim rozmówcą. Nadal staram się nauczyć tego języka tak, aby móc nim władać tak samo jak językiem angielskim."
+            ]
+        }
+    ],
+    "bottomLink": {
+        "title": "Moje projekty",
+        "path": "/projects"
+    }
+}

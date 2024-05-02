@@ -1,0 +1,21 @@
+{
+    "mainTitle": "Cześć, jestem Mateusz Czernik",
+    "content": [
+        {
+            "title": "",
+            "paras": [
+                "Jestem młodym mężczyzną starającym się o stanowisko Frontend Developera. Moje różnorodne staram się przekształcić w aplikacje tworzone przy pomocy moich narzędzi technologicznych płótnie internetowym."
+            ]
+        },
+        {
+            "title": "",
+            "paras": [
+                "Poza tym moje zainteresowania są bardzo szerokie, obejmując między innymi piłkę nożną oraz różne dziedziny nauk ścisłych. Większość dni (a czasem także noce) spędzam przed monitorem, pracując nad projektami, ale również znajdziesz mnie na boiskach w mieście lub przy biurku, rozwiązując zawiłe problemy matematyczne i nie tylko."
+            ]
+        }
+    ],
+    "bottomLink": {
+        "title": "Coś o mnie",
+        "path": "/about"
+    }
+}

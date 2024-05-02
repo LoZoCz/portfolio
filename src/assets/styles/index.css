@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+    @apply scroll-smooth;
+}
+
+body {
+    @apply overflow-x-hidden bg-zinc-900 p-8 text-zinc-100 before:fixed before:inset-0 before:z-[-1] before:h-full before:w-full before:bg-grid-pattern before:bg-grid-pattern-size before:opacity-50 before:content-[""] after:fixed after:inset-0 after:z-[-1] after:h-full after:w-full after:bg-color-pattern after:bg-cover after:opacity-10 after:blur-sm after:content-[""];
+}
+
+*::selection {
+    @apply bg-zinc-50 text-zinc-950;
+}
+
+::-webkit-scrollbar {
+    @apply w-2;
+}
+
+::-webkit-scrollbar-track {
+    @apply bg-zinc-900;
+}
+
+::-webkit-scrollbar-thumb {
+    @apply bg-zinc-50 hover:bg-zinc-500;
+}
+
+.Toastify__toast-theme--colored.Toastify__toast--default {
+    background-color: rgb(39 39 42 / 0.4);
+    color: rgb(250 250 250);
+}
